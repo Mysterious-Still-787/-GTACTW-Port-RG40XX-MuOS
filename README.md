@@ -1,6 +1,11 @@
 # -GTACTW-Port-RG40XX-MuOS
 Public release of the GTA: Chinatown Wars port for MuOS on H700 Devices. Original port made for the R36S by Mafradon, all credits go to him, i only recompiled it to run on H700 and MuOS.
 
+
+KNOWN BUGS:
+- Minor graphical glitches might occur, although rarely. (Pequenos glitches gráficos podem ocorrer ocasionalmente, embora sejam raros.)
+- Can't increase or decrease volume with the buttons, only in the game config. That's something i tried to correct but couldn't. (Não é possível aumentar ou diminuir o volume com os botões, apenas dentro do jogo)
+
 -------------------------ENGLISH---------------------------------------------------------------
 
 GTA: Chinatown Wars
