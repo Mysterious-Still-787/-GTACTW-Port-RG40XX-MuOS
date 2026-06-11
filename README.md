@@ -2,6 +2,7 @@
 Public release of the GTA: Chinatown Wars port for MuOS on H700 Devices. Original port made for the R36S by Mafradon, all credits go to him, i only recompiled it to run on H700 and MuOS.
 
 -------------------------ENGLISH---------------------------------------------------------------
+
 GTA: Chinatown Wars
 
 Port of the Android version of GTA: Chinatown Wars for PortMaster-compatible devices.
@@ -54,6 +55,7 @@ You must own the original game and provide the required APK and OBB files yourse
 
 
 --------------------------------PORTUGUESE-----------------------------------------------------
+
 GTA: Chinatown Wars
 
 Port da versão Android de GTA: Chinatown Wars para dispositivos compatíveis com PortMaster.
@@ -105,6 +107,7 @@ Este pacote não inclui nenhum arquivo protegido por direitos autorais da Rockst
 Você deve possuir uma cópia original do jogo e fornecer os arquivos APK e OBB por conta própria.
 
 -----------------------------------------------------------------------------------------------
+
 Credits
 Game
 
