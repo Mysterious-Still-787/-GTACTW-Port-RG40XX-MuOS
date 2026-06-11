@@ -16,14 +16,19 @@ Requirements
 
 You must provide your own legally obtained copy of:
 
-gtactw.apk
-main.4.com.rockstargames.gtactw.obb
+- gtactw.apk;
+- main.4.com.rockstargames.gtactw.obb;
+  
 Installation
-Open the gtactw folder.
-Copy the following files into the folder:
-gtactw.apk
-main.4.com.rockstargames.gtactw.obb
-Launch the port.
+
+- Put GTA Chinatown Wars.sh and the gtactw folder in \roms\Ports (I know in MuOS the folders are in the "Ports" directory, but for this one to work the folder must be on the same place as the .sh file)
+- Open the gtactw folder.
+- Copy the following files into the folder:
+- gtactw.apk
+- main.4.com.rockstargames.gtactw.obb
+- Launch the port.
+
+If you want to hide the folder, edit "skip.ini" in RG40XX-H\SD1\MUOS\info and add "gtactw" to the list.
 
 During the first launch, the installer will automatically:
 
@@ -69,14 +74,17 @@ Requisitos
 
 Você deve fornecer sua própria cópia legalmente adquirida dos seguintes arquivos:
 
-gtactw.apk
-main.4.com.rockstargames.gtactw.obb
+- gtactw.apk;
+- main.4.com.rockstargames.gtactw.obb;
+
 Instalação
-Abra a pasta gtactw.
-Copie os seguintes arquivos para dentro da pasta:
-gtactw.apk
-main.4.com.rockstargames.gtactw.obb
-Inicie o port.
+
+- Adicione GTA Chinatown Wars.sh e a pasta gtactw em \roms\Ports (eu sei que no MuOS as pastas ficam em "Ports", mas pra esse jogo funcionar a pasta precisa ficar no mesmo lugar do arquivo .sh)
+- Abra a pasta gtactw.
+- Copie os seguintes arquivos para dentro da pasta:
+- gtactw.apk
+- main.4.com.rockstargames.gtactw.obb
+- Inicie o port.
 
 Durante a primeira execução, o instalador irá automaticamente:
 
