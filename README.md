@@ -8,6 +8,12 @@ KNOWN BUGS:
 
 -------------------------ENGLISH---------------------------------------------------------------
 
+VERSION 1.2 UPDATE
+
+Fixed the folder structure. You can now place the gtactw folder inside "Ports", along with the other games's folder, using the original MuOS Structure. 
+
+-----------------------------------------------------------------------------------------------
+
 GTA: Chinatown Wars
 
 Port of the Android version of GTA: Chinatown Wars for PortMaster-compatible devices.
@@ -65,6 +71,12 @@ You must own the original game and provide the required APK and OBB files yourse
 
 
 --------------------------------PORTUGUESE-----------------------------------------------------
+
+ATUALIZAÇÃO 1.2
+
+Agora você pode utilizar a estrutura original dos ports no MuOS e colocar a pasta "gtactw" em Ports, sem a necessidade de coloca-la junto ao .sh
+
+-----------------------------------------------------------------------------------------------
 
 GTA: Chinatown Wars
 
